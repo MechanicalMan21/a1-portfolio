@@ -1,9 +1,10 @@
+/* * {
+    outline: 1px red solid;
+} */
+
+
 .lien-poster-row {
-    display:flex;
-    justify-content: left;
-    align-items: center;
-
-
+ display: flex;
 
 }
 
@@ -17,6 +18,6 @@
    font-family: 'Orbitron', 'Eurostile', 'Microgramma', 'Trebuchet MS', sans-serif;
 }
 
-.img-paragraph {
-    
+.img-paragraph-writing{ 
+    align-self: center; 
 }
