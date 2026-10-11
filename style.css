@@ -1,4 +1,13 @@
-.lien-poster {
-    
+.lien-poster-row {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+
+
+
 }
 
+.navbar {
+    display: flex;
+    justify-content: space-between;
+}
