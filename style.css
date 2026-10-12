@@ -8,9 +8,11 @@
 
 }
 
-.navbar {
+.top-nav {
+    /* outline: 1px red solid; */
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
+    align-items: flex-start;
 }
 
 .hello {
@@ -43,6 +45,6 @@
         height: 90%
     }
     
-    
+
 
 }
