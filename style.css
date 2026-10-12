@@ -14,10 +14,24 @@
 }
 
 .hello {
-    font-size: 3rem;
+    font-size: 2.20rem;
    font-family: 'Orbitron', 'Eurostile', 'Microgramma', 'Trebuchet MS', sans-serif;
 }
 
 .img-paragraph-writing{ 
+    font-size: 1.15rem;
+    font-family: 'Roboto Mono', 'Courier New', Courier, monospace;
     align-self: center; 
+}
+
+/* Screen size */
+@media (min-width: 768px) and (max-width: 915px) {
+
+    .hello {
+        font-size: 2rem;
+    }
+
+    .img-paragraph-writing {
+        font-size: 0.95rem;
+    }
 }
