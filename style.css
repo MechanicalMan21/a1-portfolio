@@ -9,7 +9,6 @@
 }
 
 .top-nav {
-    outline: 1px red solid;
     display: flex;
     justify-content: space-between;
 }
@@ -24,6 +23,18 @@
     font-family: 'Roboto Mono', 'Courier New', Courier, monospace;
     align-self: center; 
 }
+
+#contact-links {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+/* 
+.footer-contact {
+    display: flex;
+    flex-direction: column;
+    
+} */
 
 /* Screen size */
 @media (min-width: 768px) and (max-width: 915px) {
