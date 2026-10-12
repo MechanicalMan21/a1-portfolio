@@ -3,11 +3,6 @@
 } */
 
 
-.lien-poster-row {
- display: flex;
-
-}
-
 .top-nav {
     display: flex;
     justify-content: space-between;
@@ -40,10 +35,13 @@
 }
 
 .skills-table{
-    outline: 1px red solid;
     font-family: 'Roboto Mono', 'Courier New', Courier, monospace;
     margin: auto;
+    width: 100%;
+    table-layout: fixed;
 }
+
+
 
 
 
