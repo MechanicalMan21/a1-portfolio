@@ -32,8 +32,7 @@
 
 
 .skills-header, .skills-table{
-    display: flex;
-    justify-content: center;
+    text-align: center;
 }
 
 .skills-header{
@@ -41,8 +40,12 @@
 }
 
 .skills-table{
+    outline: 1px red solid;
     font-family: 'Roboto Mono', 'Courier New', Courier, monospace;
+    margin: auto;
 }
+
+
 
 
 
