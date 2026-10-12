@@ -9,10 +9,9 @@
 }
 
 .top-nav {
-    /* outline: 1px red solid; */
+    outline: 1px red solid;
     display: flex;
-    justify-content: center;
-    align-items: flex-start;
+    justify-content: space-between;
 }
 
 .hello {
