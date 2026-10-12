@@ -35,3 +35,14 @@
         font-size: 0.95rem;
     }
 }
+
+@media (min-width: 1200px) {
+    
+    .poster {
+        max-width: 100%;
+        height: 90%
+    }
+    
+    
+
+}
