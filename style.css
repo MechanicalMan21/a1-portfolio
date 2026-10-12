@@ -55,14 +55,14 @@
 } */
 
 /* Screen size */
-@media (min-width: 768px) and (max-width: 915px) {
+@media (min-width: 768px) and (max-width: 991px) {
 
     .hello {
-        font-size: 2rem;
+        font-size: 1.75rem;
     }
 
     .img-paragraph-writing {
-        font-size: 0.95rem;
+        font-size: 0.8rem;
     }
 }
 
@@ -76,3 +76,20 @@
 
 
 }
+
+@media (min-width: 992px) {
+    .img-paragraph {
+        padding-top: 1.5rem;
+    }
+
+    .lien-poster{
+
+    }
+}
+
+@media (min-width: 1400px) {
+    .img-paragraph {
+        padding-top: 3rem;
+    }
+}
+
