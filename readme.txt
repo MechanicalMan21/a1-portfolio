@@ -68,11 +68,12 @@ Talking to classmates about class material, assignment requirements, etc. is a g
     https://www.w3schools.com/tags/att_scope.asp
     https://www.w3schools.com/tags/tag_caption.asp
     Google Fonts (Orbitron and Roboto Mono): https://fonts.google.com/
-    Generative AI (Google Gemini) to help explain concepts such as boxmodel, flexbox, etc. 
+    Generative AI (Google Gemini) to help explain concepts such as boxmodel, flexbox, etc.  Ex: How does align-items work in flexbox? 
 
 6. What classmates or other individuals did you consult as part of this assignment? What did you discuss?
 
-
+None
 
 7. Is there anything special we need to know in order to run your code?
 
+All you need is to open index.html in any web browser with internet connection so Bootstrap and Google Fonts can load. 
