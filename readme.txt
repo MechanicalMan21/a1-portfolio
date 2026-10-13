@@ -11,7 +11,7 @@ Talking to classmates about class material, assignment requirements, etc. is a g
 1. How many assignment points do you believe you completed (replace the *'s with your numbers)?
 
 */10
-- */1 Readme
+- 1/1 Readme
 - */2 Basic HTML content
 - */1 Basic CSS styling
 - */1 Advanced feature
@@ -23,11 +23,17 @@ Talking to classmates about class material, assignment requirements, etc. is a g
 
 (a) Basic features
 
+    - Semantic HTML tags including <nav>, <footer>, <caption>, <thead>, and <tbody> for clear meanings
+    - An image that shows my recent project that I presented, which includes proper alt text for the screen reader.
+    - External links that go to my recent project, LinkedIn and GitHub
+    - Appropriate headings and paragraph text: <h1><h2><h3> and <p> for bio paragraph.
 
 
 (b) CSS features
 
-
+    - Added custom fonts from google fonts with appropriate fallbacks: used 'Orbitron' (with 'Eurostile', 'Microgramma', 'Trebuchet MS', sans-serif fallbacks) for headings and 'Roboto Mono' (with 'Courier New', Courier, monospace fallbacks) for body and table text.
+    - Used Bootstraps CSS including containers (.container), grid layout classes (.row, .col-12, .col-md-6, .col-10, .col-2), navbar helpers (.navbar), and responsive image scaling (.img-fluid).
+    - Modified padding and margins for better readability: custom top padding across media queries (.img-paragraph), and flexbox spacing (justify-content: space-between, align-items: center).
 
 (c) Advanced features
 
