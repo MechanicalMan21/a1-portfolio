@@ -34,6 +34,7 @@ Talking to classmates about class material, assignment requirements, etc. is a g
     - Added custom fonts from google fonts with appropriate fallbacks: used 'Orbitron' (with 'Eurostile', 'Microgramma', 'Trebuchet MS', sans-serif fallbacks) for headings and 'Roboto Mono' (with 'Courier New', Courier, monospace fallbacks) for body and table text.
     - Used Bootstraps CSS including containers (.container), grid layout classes (.row, .col-12, .col-md-6, .col-10, .col-2), navbar helpers (.navbar), and responsive image scaling (.img-fluid).
     - Modified padding and margins for better readability: custom top padding across media queries (.img-paragraph), and flexbox spacing (justify-content: space-between, align-items: center).
+    - Used background image (space) along with a fallback (black) along with adding color: white to blend the text and background together. 
 
 (c) Advanced features
 
@@ -69,6 +70,7 @@ Talking to classmates about class material, assignment requirements, etc. is a g
     https://www.w3schools.com/tags/tag_caption.asp
     Google Fonts (Orbitron and Roboto Mono): https://fonts.google.com/
     Generative AI (Google Gemini) to help explain concepts such as boxmodel, flexbox, etc.  Ex: How does align-items work in flexbox? 
+    https://www.pexels.com/search/space%20background/ for background
 
 6. What classmates or other individuals did you consult as part of this assignment? What did you discuss?
 
