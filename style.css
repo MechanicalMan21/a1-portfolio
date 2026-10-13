@@ -2,6 +2,10 @@
     outline: 1px red solid;
 } */
 
+body {
+    background: url(img/space.jpg);
+    color: white;
+}
 
 .top-nav {
     display: flex;
