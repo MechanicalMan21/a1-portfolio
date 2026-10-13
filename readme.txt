@@ -45,9 +45,13 @@ Talking to classmates about class material, assignment requirements, etc. is a g
 
     I got 0 Known Problems and 0 Likely Problems on AChecker. I ended up ignoring the 28 "Potential Problems, since most of them are not really required to make this website accessible: 
 
-    1. Image and alt text checks (Checks 8, 11, 14, 16, 178, 251): Achecker asks if the image I used is decorative, requires long description, or contains uncaptured text/poor contrast. However the photo is meaningful content and I believe my alt text ("Lien standing next to his team's bituin project presentation poster.") clearly shows the purpose of the image, without needing long descriptions. 
+    1. Image and alt text checks: Achecker asks if the image I used is decorative, requires long description, or contains uncaptured text/poor contrast. However the photo is meaningful content and I believe my alt text ("Lien standing next to his team's bituin project presentation poster.") clearly shows the purpose of the image, without needing long descriptions. 
 
-    2. Table Structure Checks (Checks 111, 137, 230, 231, 242): 
+    2. Table Structure Checks: Achecker asks if my table layout is missing the <th> tags, <caption> idetifies table well, etc. However since my table is a true data table, not a layout table. Additionally, I believe my <caption> ("Overview of skills and technologies") explcitly identifies its purpose.
+
+    3.  Headings, page title, link checks: Achecker asks if my tags such as <h> and <a>, are meaningful not just because. I believe all my html tags represent meaningful placements because they correspond to their purpose. Ex: <a> tag will actually take user to a related link. 
+
+    4. etc: Checks such as multi-page checks on <body>. These are the other picky checks such as potential for missing site maps. Since my portfolio is a concise, single-page english site, these complexity checks do not really pose and dangers. 
 
 4. How long, in hours, did it take you to complete this assignment?
 
