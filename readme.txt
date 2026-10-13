@@ -55,11 +55,20 @@ Talking to classmates about class material, assignment requirements, etc. is a g
 
 4. How long, in hours, did it take you to complete this assignment?
 
-
+    According to github commits and including the time it takes to learn new information while doing the project, I would say about 9-12 hours. 
 
 5. What online resources did you consult when completing this assignment? (list specific URLs, describe queries to Generative AI, or use of AI-based code completion)
 
-
+    https://www.w3schools.com/cssref/index.php
+    https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+    https://www.figma.com/resource-library/best-fonts-for-websites/
+    https://www.w3schools.com/css/css_boxmodel.asp
+    https://www.w3schools.com/cssref/css_websafe_fonts.php
+    https://www.w3schools.com/css/css_overflow.asp
+    https://www.w3schools.com/tags/att_scope.asp
+    https://www.w3schools.com/tags/tag_caption.asp
+    Google Fonts (Orbitron and Roboto Mono): https://fonts.google.com/
+    Generative AI (Google Gemini) to help explain concepts such as boxmodel, flexbox, etc. 
 
 6. What classmates or other individuals did you consult as part of this assignment? What did you discuss?
 
