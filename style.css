@@ -3,8 +3,12 @@
 } */
 
 body {
-    background: url(img/space.jpg);
     color: white;
+    background-color: #000000;
+    background: url(img/space2.jpeg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
 }
 
 .top-nav {
