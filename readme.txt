@@ -37,12 +37,17 @@ Talking to classmates about class material, assignment requirements, etc. is a g
 
 (c) Advanced features
 
-
+    - Created a table with multiple columns and rows that could be read with a screen reader: 3-column, 4-row. Used semantic <thead>, <tbody>, <th scope="col">, and a visually hidden <caption> (1px width/height with overflow: hidden) to help assistive technologies
+    - Created more complex page layout that has navigation bar and responsive multi-breakpoint adjustments
 
 
 3. Did you ignore any of the warnings or errors presented by the accessibility checker? If so, why does this not seem like an accessibility concern? If it's useful, you can consolidate your thoughts on multiple warnings/errors if the rationale is similar.
 
+    I got 0 Known Problems and 0 Likely Problems on AChecker. I ended up ignoring the 28 "Potential Problems, since most of them are not really required to make this website accessible: 
 
+    1. Image and alt text checks (Checks 8, 11, 14, 16, 178, 251): Achecker asks if the image I used is decorative, requires long description, or contains uncaptured text/poor contrast. However the photo is meaningful content and I believe my alt text ("Lien standing next to his team's bituin project presentation poster.") clearly shows the purpose of the image, without needing long descriptions. 
+
+    2. Table Structure Checks (Checks 111, 137, 230, 231, 242): 
 
 4. How long, in hours, did it take you to complete this assignment?
 
